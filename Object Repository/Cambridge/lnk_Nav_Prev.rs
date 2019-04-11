@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lnk_Nav_Prev</name>
+   <tag></tag>
+   <elementGuidId>790e9d27-3f3a-4422-b57a-cc0598513e89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[i[contains(@class,'fcdo-arrow-left')]]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[i[contains(@class,'fcdo-arrow-left')]]</value>
+   </webElementProperties>
+</WebElementEntity>

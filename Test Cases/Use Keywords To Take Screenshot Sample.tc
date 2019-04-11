@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Use Keywords To Take Screenshot Sample</name>
+   <tag></tag>
+   <comment>TEARDOWN</comment>
+   <testCaseGuid>fdcc8d5d-70df-42f9-84fc-0cd9b529677d</testCaseGuid>
+</TestCaseEntity>

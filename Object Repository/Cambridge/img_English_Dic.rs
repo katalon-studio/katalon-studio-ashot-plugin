@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_English_Dic</name>
+   <tag></tag>
+   <elementGuidId>6989377c-e434-444e-9ef0-e75a9ec34e48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@class='a--rev']/img[contains(@src,'/english/')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@class='a--rev']/img[contains(@src,'/english/')]</value>
+   </webElementProperties>
+</WebElementEntity>

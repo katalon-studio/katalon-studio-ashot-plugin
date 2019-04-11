@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lnk_Nav_Next</name>
+   <tag></tag>
+   <elementGuidId>da29af0a-ea3d-4553-ad6c-d0103baa6bb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[i[contains(@class,'fcdo-arrow-right')]]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[i[contains(@class,'fcdo-arrow-right')]]</value>
+   </webElementProperties>
+</WebElementEntity>

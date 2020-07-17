@@ -1,4 +1,7 @@
 # katalon-studio-ashot-plugin
+
+> **Also try out the [early release of Katalon TestOps Vision for Visual-based Testing](https://forum.katalon.com/t/early-release-of-katalon-testops-vision-visual-testing-image-comparison/45557)!**
+
 The plugin provide custom keywords for working with taking screenshots with different options: normal mode, full page of the current web site, take screenshot and scale image according to device pixel ratio or cut off header & footer and take screenshot of web element(s). After that we save the screenshot into file .png files in the folder "Screenshots" of current working project folder. The images can be used as baseline images to detect GUI changes.
 
 ## Usage
@@ -56,3 +59,17 @@ If they are not matched, an image will be created with different parts being hig
 CustomKeywords.'kms.turing.katalon.plugins.visualtesting.ImageComparison.getDifferenceRatio'(imageFile1, imageFile2, FailureHandling.CONTINUE_ON_FAILURE)
 ```
 
+## Companion products
+
+### Katalon TestOps
+
+[Katalon TestOps](https://analytics.katalon.com) is a web-based application that provides dynamic perspectives and an insightful look at your automation testing data. You can leverage your automation testing data by transforming and visualizing your data; analyzing test results; seamlessly integrating with such tools as Katalon Studio and Jira; maximizing the testing capacity with remote execution.
+
+* Read our [documentation](https://docs.katalon.com/katalon-analytics/docs/overview.html).
+* Ask a question on [Forum](https://forum.katalon.com/categories/katalon-analytics).
+* Request a new feature on [GitHub](CONTRIBUTING.md).
+* Vote for [Popular Feature Requests](https://github.com/katalon-analytics/katalon-analytics/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc).
+* File a bug in [GitHub Issues](https://github.com/katalon-analytics/katalon-analytics/issues).
+
+### Katalon Studio
+[Katalon Studio](https://www.katalon.com) is a free and complete automation testing solution for Web, Mobile, and API testing with modern methodologies (Data-Driven Testing, TDD/BDD, Page Object Model, etc.) as well as advanced integration (JIRA, qTest, Slack, CI, Katalon TestOps, etc.). Learn more about [Katalon Studio features](https://www.katalon.com/features/).
